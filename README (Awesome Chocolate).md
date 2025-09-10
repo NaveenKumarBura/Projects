@@ -50,6 +50,7 @@ The dashboard helps the business identify **top-performing salespeople, product 
 - Automate data refresh from a SQL database  
 
 
+
 ## 👤 Author
 Naveen Kumar – Customer Success & Data Analytics Professional  
 📧 [naveen021192@gmail.com]
