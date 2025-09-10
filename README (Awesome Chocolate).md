@@ -49,6 +49,7 @@ The dashboard helps the business identify **top-performing salespeople, product 
 - Add **forecasting visuals** using Power BI predictive models  
 - Automate data refresh from a SQL database  
 
+
 ## 👤 Author
 Naveen Kumar – Customer Success & Data Analytics Professional  
 📧 [naveen021192@gmail.com]
