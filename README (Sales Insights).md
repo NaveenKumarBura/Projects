@@ -48,7 +48,10 @@ The dashboard helps businesses **track growth, identify trends, and drill down i
 - Integrate **real-time sales data** from a SQL database  
 - Include **forecasting models** for predicting future sales  
 
+---
 
 ## 👤 Author
 Naveen Kumar – Customer Success & Data Analytics Professional  
 📧 [naveen021192@gmail.com]
+
+---
