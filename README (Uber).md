@@ -49,7 +49,10 @@ The dashboard provides **time-based, location-based, and category-based insights
 - Add **driver performance metrics** (acceptance rate, ratings)  
 - Forecast ride demand using **time series models**  
 
+---
 
 ## 👤 Author
 Naveen Kumar – Customer Success & Data Analytics Professional  
 📧 [naveen021192@gmail.com]
+
+---
