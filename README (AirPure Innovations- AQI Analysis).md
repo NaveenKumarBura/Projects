@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project analyzes **Air Quality Index (AQI) trends, pollutant composition, EV adoption, and health impacts** across Indian states and cities.  
-The goal is to uncover actionable insights for **environmental monitoring, public health**, and **policy evaluation**.
+The primary objective of this project is to conduct a market launch analysis for air purifiers on behalf of AirPure Innovation Company. The analysis focuses on understanding market conditions and competitive dynamics to support a successful product launch.
 
 The project was built end-to-end in **Power BI** with multiple datasets combined: AQI data, vehicle registration (Vahan), health (IDSP), and population projections.
 
@@ -21,18 +21,18 @@ The project was built end-to-end in **Power BI** with multiple datasets combined
 ---
 
 ## 🗂️ Data Sources
-- **AQI Dataset (aqi.csv)** – Daily air quality readings  
-- **IDSP Health Dataset (idsp.csv)** – Reported disease cases  
-- **Vahan Dataset (vahan.csv)** – Vehicle registrations by fuel type  
-- **Population Projections (population_projection.csv)** – Population estimates for 2024  
-- **Derived Tables** – Date table, Tier mapping, Location mapping  
+- AQI Dataset (aqi.csv)** – Daily air quality readings  
+- IDSP Health Dataset (idsp.csv)** – Reported disease cases  
+- Vahan Dataset (vahan.csv)** – Vehicle registrations by fuel type  
+- Population Projections (population_projection.csv)** – Population estimates for 2024  
+- Derived Tables** – Date table, Tier mapping, Location mapping  
 
 ---
 
 ## ⚙️ Tech Stack
-- **Power BI Desktop** – Data cleaning, modeling, DAX measures, dashboard building  
-- **DAX** – Custom measures (Avg AQI, pollutant ranking, EV adoption %, disease burden, risk scores)  
-- **Excel/CSV** – Initial data cleaning  
+- Power BI Desktop** – Data cleaning, modeling, DAX measures, dashboard building  
+- DAX – Custom measures (Avg AQI, pollutant ranking, EV adoption %, disease burden, risk scores)  
+- Excel/CSV – Initial data cleaning  
 
 ---
 
