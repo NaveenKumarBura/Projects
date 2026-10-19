@@ -52,7 +52,9 @@ The dashboard helps the business identify **top-performing salespeople, product 
 ---
 
 ## 👤 Author
-Naveen Kumar – Customer Success & Data Analytics Professional  
+Naveen Kumar – Data Operations Analyst (SQL · Power BI · MIS Reporting)  
 📧 [naveen021192@gmail.com]
 
 ---
+
+⬅️ [Back to portfolio](../README.md)
