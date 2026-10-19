@@ -51,7 +51,9 @@ The dashboard helps businesses **track growth, identify trends, and drill down i
 ---
 
 ## 👤 Author
-Naveen Kumar – Customer Success & Data Analytics Professional  
+Naveen Kumar – Data Operations Analyst (SQL · Power BI · MIS Reporting)  
 📧 [naveen021192@gmail.com]
 
 ---
+
+⬅️ [Back to portfolio](../README.md)

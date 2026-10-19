@@ -21,18 +21,18 @@ The project was built end-to-end in **Power BI** with multiple datasets combined
 ---
 
 ## 🗂️ Data Sources
-- AQI Dataset (aqi.csv)** – Daily air quality readings  
-- IDSP Health Dataset (idsp.csv)** – Reported disease cases  
-- Vahan Dataset (vahan.csv)** – Vehicle registrations by fuel type  
-- Population Projections (population_projection.csv)** – Population estimates for 2024  
-- Derived Tables** – Date table, Tier mapping, Location mapping  
+- **AQI Dataset (aqi.csv)** – Daily air quality readings  
+- **IDSP Health Dataset (idsp.csv)** – Reported disease cases  
+- **Vahan Dataset (vahan.csv)** – Vehicle registrations by fuel type  
+- **Population Projections (population_projection.csv)** – Population estimates for 2024  
+- **Derived Tables** – Date table, Tier mapping, Location mapping  
 
 ---
 
 ## ⚙️ Tech Stack
-- Power BI Desktop** – Data cleaning, modeling, DAX measures, dashboard building  
-- DAX – Custom measures (Avg AQI, pollutant ranking, EV adoption %, disease burden, risk scores)  
-- Excel/CSV – Initial data cleaning  
+- **Power BI Desktop** – Data cleaning, modeling, DAX measures, dashboard building  
+- **DAX** – Custom measures (Avg AQI, pollutant ranking, EV adoption %, disease burden, risk scores)  
+- **Excel/CSV** – Initial data cleaning  
 
 ---
 
@@ -67,7 +67,7 @@ The project was built end-to-end in **Power BI** with multiple datasets combined
 ---
 
 ## 👤 Author
-Naveen Kumar – Customer Success & Data Analytics Professional  
+Naveen Kumar – Data Operations Analyst (SQL · Power BI · MIS Reporting)  
 📧 [naveen021192@gmail.com]
 
 ---
@@ -76,3 +76,5 @@ Naveen Kumar – Customer Success & Data Analytics Professional
 
 
 
+
+⬅️ [Back to portfolio](../README.md)

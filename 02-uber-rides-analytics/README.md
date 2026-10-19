@@ -52,7 +52,9 @@ The dashboard provides **time-based, location-based, and category-based insights
 ---
 
 ## 👤 Author
-Naveen Kumar – Customer Success & Data Analytics Professional  
+Naveen Kumar – Data Operations Analyst (SQL · Power BI · MIS Reporting)  
 📧 [naveen021192@gmail.com]
 
 ---
+
+⬅️ [Back to portfolio](../README.md)
