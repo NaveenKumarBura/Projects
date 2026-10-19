@@ -1,7 +1,5 @@
 # 📊 Naveen Kumar | Power BI Portfolio
 
-![Power BI Portfolio: 4 Analytics Dashboards](assets/portfolio-cover.png)
-
 Data Operations Analyst with 7+ years across Customer Success, Operations and MIS reporting. I turn messy operational data into reports teams actually use.
 
 **Toolkit:** SQL · Power BI · DAX · Data Modeling · Excel · Google Sheets · AI automation
